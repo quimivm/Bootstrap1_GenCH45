@@ -1,0 +1,14 @@
+.card, .row{
+    margin: 20px 10px 20px 10px;
+}
+
+.list-group{
+    margin-bottom: 10px;
+}
+
+@media (max-width: 576px) {
+    .footer-title,p,ul,.card{
+        text-align: center;
+    }
+}
+
